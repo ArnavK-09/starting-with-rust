@@ -15,5 +15,5 @@ fn main() {
         println!("Can't find password")
     }
 
-    println!("{}", pass)
+    println!("{:#?}", password)
 }
